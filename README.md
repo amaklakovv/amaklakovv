@@ -68,6 +68,13 @@ Relevant Coursework: Software Development & Advanced Programming, Project Manage
 - Applied AI/ML skills to create an intelligent system that adapts to user style preferences through contextual data and feedback.  
 - Addressed real-world problem of daily outfit decision fatigue, helping users save time and enhance their personal style with tailored recommendations.
 
+### Exam Scheduler (Solo Project)  
+*Jul. 2025 – Present*  
+**Technologies:** `Python`, `Flask`, `SQLite`, `Pandas`, `JavaScript`, `HTML/CSS`  
+- Developed a full-stack web app that converts complex Excel exam timetables into a searchable, student-friendly interface with real-time search by course code.  
+- Implemented backend Excel parsing and data persistence with Flask, SQLite, and Pandas, alongside a responsive, dark-themed frontend for seamless user experience.  
+- Designed for easy admin uploads and instant student access, solving the problem of cumbersome manual timetable searches at university.
+
 ### Autonomous Vehicle Project (Team)  
 *Apr. 2023 – May. 2023*  
 **Technologies:** `C++`, `Raspberry Pi`, `GitLab`, `Critical Thinking`  
