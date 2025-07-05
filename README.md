@@ -10,7 +10,7 @@ Motivated third-year Bachelor of Engineering (Honours) student specializing in S
 
 **Bachelor of Engineering (Honours) in Software Engineering**  
 Specialization in Artificial Intelligence  
-University Name (Feb. 2023 – Nov. 2026)
+Victoria University of Wellington (Feb. 2023 – Nov. 2026)
 
 Relevant Coursework: Software Development & Advanced Programming, Project Management, Machine Learning, Safety Critical Systems
 
