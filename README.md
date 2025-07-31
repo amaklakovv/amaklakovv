@@ -1,18 +1,18 @@
 # Andrew Maklakov
 
-_Software Engineering Student with AI Specialization_
+_Software Engineering Student with AI Specialisation_
 
 ## Summary
 
-Motivated third-year Bachelor of Engineering (Honours) student specializing in Software Engineering with an AI specialization. Strong foundation in coding, project management, and technical problem-solving. Proven leadership and teamwork skills from academic projects and extracurricular activities. Eager to apply both technical and interpersonal strengths in a dynamic tech environment to gain real-world industry experience.
+Currently in the third-year of a Bachelor of Engineering, majoring in Software Engineering with an AI specialisation. Solid foundation in coding and problem-solving skills built through hands-on experience. Leadership and teamwork demonstrated through academic projects and extracurricular activities. Looking to apply both technical knowledge and interpersonal skills to gain valuable industry experience before graduation.
 
 # Education
 
 **Bachelor of Engineering (Honours) in Software Engineering**  
 Specialization in Artificial Intelligence  
-Victoria University of Wellington (Feb. 2023 – Nov. 2026)
+Victoria University of Wellington (Completing Nov. 2026)
 
-Relevant Coursework: Software Development & Advanced Programming, Project Management, Machine Learning, Safety Critical Systems
+Relevant Coursework: Software Development & Advanced Programming, Project Management, Machine Learning & AI, Safety Critical Systems
 
 ## Technical Skills
 
@@ -30,7 +30,9 @@ Relevant Coursework: Software Development & Advanced Programming, Project Manage
 * Teamwork  
 * Problem Solving  
 * Communication  
-* Time Management  
+* Time Management
+* Project Management
+* Public Speaking
 
 ---
 
@@ -39,53 +41,48 @@ Relevant Coursework: Software Development & Advanced Programming, Project Manage
 ### Code Catchers (Co-Team Lead)  
 *Feb. 2025 – Nov. 2025*  
 **Technologies:** `C#`, `Git`, `Project Management`, `Agile Workflow`, `UX`  
-- Assisted in overseeing, creating, and coordinating a year-long project using industry-standard project management practices, ensuring adherence to Agile methodologies, timelines, and task prioritization.  
-- Coordinated team tasks, implemented core game features in backend/frontend, and contributed to the design of user interfaces to enhance the experience and retention.
+- Oversaw Agile sprints and stand-ups, coordinating a six-person team across design, development, and testing.
+- Developed backend/frontend logic and UI features, contributing to improved game retention metrics.
 
 ### Collaborative Java Application (Team Lead)  
 *Aug. 2024 – Oct. 2024*  
 **Technologies:** `Java`, `Git`, `Project Management`, `UX`  
-- Led development of the rendering component, including on-screen visuals, animations, and user interface design.  
-- Implemented responsive UI elements that improved user interaction and visual feedback by 40%.
+- Led front-end development and implemented animation systems to enhance interactivity.  
+- Increased visual feedback responsiveness by 40%, improving usability scores from peer testing.
+
+### Exam Scheduler (Solo Project)  
+*Jul. 2025 – Present*  
+**Technologies:** `Python`, `Flask`, `SQLite`, `HTML/CSS`  
+- Created a web app to convert Excel exam timetables into a searchable, real-time scheduling tool, used by dozens of students to quickly locate their exams, replacing manual Excel searches with simple interfaces.
 
 ### Social Media Analyser (Solo Project)  
 *Apr. 2025 – Present*  
 **Technologies:** `Python`, `Streamlit`, `APIs`  
-- Developed a web app with three modes: sentiment analysis, fake news detection (FactCheck.org datasets), and mood-based music recommendations (Spotify API).  
-- Demonstrated versatility in API integration and user-focused design.
+- Built a 3-in-1 app for sentiment analysis, fake news detection, and Spotify music recommendations using NLP.
+- Integrated APIs and UI components into a unified dashboard for real-time feedback.
 
 ### Code Collaborator (Solo Project)  
 *Jun. 2025 – Present*  
 **Technologies:** `React`, `Python`, `FastAPI`, `WebSockets`  
-- Built a real-time collaborative code editor allowing multiple users to edit code simultaneously with live updates and typing indicators.  
-- Implemented shareable room links and user presence features using React and Monaco Editor on the frontend, with a Python/FastAPI backend handling WebSocket communication.  
-- Focused on creating a smooth, responsive experience without a database, showcasing full-stack skills in real-time collaboration.
+- Built a real-time collaborative code editor with live typing, shared rooms, and typing indicators.
+- Engineered frontend using React and Monaco Editor, backend in FastAPI handling WebSocket sync.
 
 ### Wardrobe App (Solo Project)  
 *May. 2025 – Present*  
 **Technologies:** `React`, `Machine Learning`  
-- Built a cross-platform wardrobe app using React Native/React, implementing machine learning to provide personalized outfit recommendations based on wardrobe, weather, and events.  
-- Applied AI/ML skills to create an intelligent system that adapts to user style preferences through contextual data and feedback.  
-- Addressed real-world problem of daily outfit decision fatigue, helping users save time and enhance their personal style with tailored recommendations.
-
-### Exam Scheduler (Solo Project)  
-*Jul. 2025 – Present*  
-**Technologies:** `Python`, `Flask`, `SQLite`, `Pandas`, `JavaScript`, `HTML/CSS`  
-- Developed a full-stack web app that converts complex Excel exam timetables into a searchable, student-friendly interface with real-time search by course code.  
-- Implemented backend Excel parsing and data persistence with Flask, SQLite, and Pandas, alongside a responsive, dark-themed frontend for seamless user experience.  
-- Designed for easy admin uploads and instant student access, solving the problem of cumbersome manual timetable searches at university.
+- Developed an ML-powered outfit recommendation system based on wardrobe contents, weather, and events.
+- Addressing a real-world problem with responsive UI to enable cross-platform outfit planning.
 
 ### Autonomous Vehicle Project (Team)  
 *Apr. 2023 – May. 2023*  
 **Technologies:** `C++`, `Raspberry Pi`, `GitLab`, `Critical Thinking`  
-- Designed and built an autonomous robot from components, including wiring sensors and integrating hardware with a C++ program.  
-- Developed algorithms for line detection and red ball tracking using camera input, achieving 70-80% accuracy in navigation tasks.
+- Designed and built an autonomous robot using Raspberry Pi, integrating camera tracking and sensors.
+- Wrote line-detection and navigation algorithms in C++, achieving 70–80% task success in field tests.
 
 ### Si Music Web App  
-*Jun. 2022 - Present*  
+*Jun. 2022 - Aug. 2023*  
 **Technologies:** `JavaScript`, `Node.js`, `CSS`, `HTML`, `PHP`, `MySQL`  
-- Designed and built a Music Database website using PHP, SQL, HTML/CSS, enabling users to discover and organize music collections efficiently.  
-- Implemented JavaScript and Node.js features for dynamic content loading and real-time interactions.  
+- Designed and built a Music Database enabling users to discover and organize music collections efficiently.  
 - Developed search and filter functionality allowing seamless navigation through artist, genre, and release date categories.
 
 ---
@@ -93,8 +90,17 @@ Relevant Coursework: Software Development & Advanced Programming, Project Manage
 ## Extracurriculars
 
 ### Volunteer Tutor  
-- Tutored first-year students and peers in programming and other concepts during free time.  
-- Helped improve pass rates and understanding among students.
+- Tutored first-year students and peers in programming/CS concepts, enhancing pass rates and understanding.
+- Working with others and helping them gain confidence is one of the most rewarding parts of this role.
 
 ### Engineering Club  
 - Collaborated with peers on software projects and skill-building events.
+- Connecting with like-minded students in an inspiring environment for learning, sharing ideas, and growing.
+
+### Victoria Business Consulting
+- Worked with students from different disciplines to solve real business problems in a professional setting.
+- Valued applying technical skills to real-world challenges and improving client communication.
+
+### Swimming/Gym
+- Regularly swimming and exercising for health, focus, and personal discipline which helps me stay balanced and
+energised, especially during intense periods.
