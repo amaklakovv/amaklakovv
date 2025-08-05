@@ -9,7 +9,7 @@ Currently in the third-year of a Bachelor of Engineering, majoring in Software E
 # Education
 
 **Bachelor of Engineering (Honours) in Software Engineering**  
-Specialization in Artificial Intelligence  
+Specialisation in Artificial Intelligence  
 Victoria University of Wellington (Completing Nov. 2026)
 
 Relevant Coursework: Software Development & Advanced Programming, Project Management, Machine Learning & AI, Safety Critical Systems
