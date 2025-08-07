@@ -52,7 +52,7 @@ Relevant Coursework: Software Development & Advanced Programming, Project Manage
 
 ### Exam Scheduler (Solo Project)  
 *Jul. 2025 – Present*  
-**Technologies:** `Python`, `Flask`, `SQLite`, `HTML/CSS`  
+**Technologies:** `Python`, `Javascript`, `HTML/CSS`  
 - Created a web app to convert Excel exam timetables into a searchable, real-time scheduling tool, used by dozens of students to quickly locate their exams, replacing manual Excel searches with simple interfaces.
 
 ### Social Media Analyser (Solo Project)  
