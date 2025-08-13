@@ -2,7 +2,7 @@
 
 _Software Engineering Student with AI Specialisation_
 
-[Portfolio](mandrew.netlify.app)
+[My Portfolio Website](https://mandrew.netlify.app/)
 
 ## Summary
 
