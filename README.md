@@ -2,6 +2,8 @@
 
 _Software Engineering Student with AI Specialisation_
 
+[Portfolio](mandrew.netlify.app}
+
 ## Summary
 
 Currently in the third-year of a Bachelor of Engineering, majoring in Software Engineering with an AI specialisation. Solid foundation in coding and problem-solving skills built through hands-on experience. Leadership and teamwork demonstrated through academic projects and extracurricular activities. Looking to apply both technical knowledge and interpersonal skills to gain valuable industry experience before graduation.
