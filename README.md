@@ -4,7 +4,7 @@ _Software Engineering Student with AI Specialisation_
 
 ## Summary
 
-Currently seeking tech related work experience or internship for Summer 2025. Third-year Bachelor of Engineering, majoring in Software Engineering with an AI specialisation. Solid foundation in coding and problem-solving skills built through hands-on experience. Leadership and teamwork demonstrated through academic projects and extracurricular activities. Looking to apply both technical knowledge and interpersonal skills to gain valuable industry experience before graduation.
+Currently looking for tech-related work experience or an internship for Summer 2025. Third-year Bachelor of Engineering, majoring in Software Engineering with an AI specialisation. Solid foundation in coding and problem-solving skills built through hands-on experience. Leadership and teamwork demonstrated through academic projects and extracurricular activities. Looking to apply both technical knowledge and interpersonal skills to gain valuable industry experience before graduation.
 
 # Education
 
